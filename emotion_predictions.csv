@@ -1,0 +1,301 @@
+sentence,true_label,predicted_emotion,confidence
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+He was terrified when He saw the shadow outside my window.,Fear,anger,0.9870775938034058
+We was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9927974343299866
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+She felt enraged by the constant interruptions.,Anger,anger,0.9992262125015259
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+He felt paralyzed with fear during the horror movie.,Fear,anger,0.9930991530418396
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+I was overjoyed when I got the acceptance letter.,Joy,joy,0.9961414933204651
+He felt paralyzed with fear during the horror movie.,Fear,anger,0.9930991530418396
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+He couldn't contain my anger during the heated argument.,Anger,anger,0.9992566704750061
+He couldn't believe my eyes when He saw the stunning view.,Surprise,joy,0.9950215816497803
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+They couldn't contain my anger during the heated argument.,Anger,anger,0.9993886947631836
+I gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9909928441047668
+We gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9905291199684143
+They couldn't stop smiling after receiving the good news.,Joy,joy,0.9951468110084534
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+She couldn't stop crying after reading the sad letter.,Sadness,sadness,0.9955801367759705
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+She was overjoyed when She got the acceptance letter.,Joy,joy,0.9962871074676514
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+He was overjoyed when He got the acceptance letter.,Joy,joy,0.9963523149490356
+We was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9927974343299866
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+They gasped in astonishment at the plot twist in the story.,Surprise,anger,0.9900699257850647
+We couldn't stop crying after reading the sad letter.,Sadness,fear,0.9857116341590881
+We was overjoyed when We got the acceptance letter.,Joy,joy,0.9963550567626953
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+I was overjoyed when I got the acceptance letter.,Joy,joy,0.9961414933204651
+He was terrified when He saw the shadow outside my window.,Fear,anger,0.9870775938034058
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+I was overjoyed when I got the acceptance letter.,Joy,joy,0.9961414933204651
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+He felt paralyzed with fear during the horror movie.,Fear,anger,0.9930991530418396
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+He couldn't believe my eyes when He saw the stunning view.,Surprise,joy,0.9950215816497803
+She was heartbroken when She heard the tragic news.,Sadness,anger,0.9914488196372986
+He was overjoyed when He got the acceptance letter.,Joy,joy,0.9963523149490356
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+They couldn't contain my anger during the heated argument.,Anger,anger,0.9993886947631836
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+I was heartbroken when I heard the tragic news.,Sadness,surprise,0.9880502820014954
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+They couldn't contain my anger during the heated argument.,Anger,anger,0.9993886947631836
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+They felt paralyzed with fear during the horror movie.,Fear,anger,0.9947400689125061
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+We felt a deep sense of loss after the breakup.,Sadness,fear,0.9763399958610535
+They gasped in astonishment at the plot twist in the story.,Surprise,anger,0.9900699257850647
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+He felt paralyzed with fear during the horror movie.,Fear,anger,0.9930991530418396
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+We felt paralyzed with fear during the horror movie.,Fear,fear,0.9872387051582336
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+He was terrified when He saw the shadow outside my window.,Fear,anger,0.9870775938034058
+I felt paralyzed with fear during the horror movie.,Fear,anger,0.9907436966896057
+She was terrified when She saw the shadow outside my window.,Fear,anger,0.9888551831245422
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+She couldn't believe my eyes when She saw the stunning view.,Surprise,joy,0.995003879070282
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+They was heartbroken when They heard the tragic news.,Sadness,anger,0.9877455830574036
+He was overjoyed when He got the acceptance letter.,Joy,joy,0.9963523149490356
+She gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9881250858306885
+We couldn't believe my eyes when We saw the stunning view.,Surprise,joy,0.9941851496696472
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+We was overjoyed when We got the acceptance letter.,Joy,joy,0.9963550567626953
+I couldn't believe my eyes when I saw the stunning view.,Surprise,joy,0.9927830696105957
+I was overjoyed when I got the acceptance letter.,Joy,joy,0.9961414933204651
+They was heartbroken when They heard the tragic news.,Sadness,anger,0.9877455830574036
+We was overjoyed when We got the acceptance letter.,Joy,joy,0.9963550567626953
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+I was furious when I saw the broken vase.,Anger,anger,0.9971948862075806
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+They felt paralyzed with fear during the horror movie.,Fear,anger,0.9947400689125061
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+She gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9881250858306885
+I couldn't stop smiling after receiving the good news.,Joy,joy,0.9943481087684631
+He was overjoyed when He got the acceptance letter.,Joy,joy,0.9963523149490356
+They couldn't contain my anger during the heated argument.,Anger,anger,0.9993886947631836
+He felt enraged by the constant interruptions.,Anger,anger,0.999229907989502
+We was overjoyed when We got the acceptance letter.,Joy,joy,0.9963550567626953
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+He was terrified when He saw the shadow outside my window.,Fear,anger,0.9870775938034058
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+They couldn't believe my eyes when They saw the stunning view.,Surprise,joy,0.9947145581245422
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+He felt a deep sense of loss after the breakup.,Sadness,fear,0.9783530235290527
+They felt a deep sense of loss after the breakup.,Sadness,fear,0.974932849407196
+She was terrified when She saw the shadow outside my window.,Fear,anger,0.9888551831245422
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+She was heartbroken when She heard the tragic news.,Sadness,anger,0.9914488196372986
+We was heartbroken when We heard the tragic news.,Sadness,joy,0.9854073524475098
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+He felt paralyzed with fear during the horror movie.,Fear,anger,0.9930991530418396
+We was overjoyed when We got the acceptance letter.,Joy,joy,0.9963550567626953
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+I felt enraged by the constant interruptions.,Anger,anger,0.999234676361084
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+He couldn't stop crying after reading the sad letter.,Sadness,sadness,0.9957534074783325
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+I felt enraged by the constant interruptions.,Anger,anger,0.999234676361084
+He was heartbroken when He heard the tragic news.,Sadness,joy,0.9884603023529053
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+They was furious when They saw the broken vase.,Anger,anger,0.9983910918235779
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+I couldn't stop crying after reading the sad letter.,Sadness,fear,0.9869140982627869
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+She felt enraged by the constant interruptions.,Anger,anger,0.9992262125015259
+I gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9909928441047668
+She couldn't stop smiling after receiving the good news.,Joy,joy,0.9946209192276001
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+She couldn't believe my eyes when She saw the stunning view.,Surprise,joy,0.995003879070282
+I was terrified when I saw the shadow outside my window.,Fear,fear,0.9844675660133362
+She felt enraged by the constant interruptions.,Anger,anger,0.9992262125015259
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+I was heartbroken when I heard the tragic news.,Sadness,surprise,0.9880502820014954
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+They couldn't stop smiling after receiving the good news.,Joy,joy,0.9951468110084534
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+I was overjoyed when I got the acceptance letter.,Joy,joy,0.9961414933204651
+She couldn't contain my anger during the heated argument.,Anger,anger,0.9994718432426453
+She couldn't contain my anger during the heated argument.,Anger,anger,0.9994718432426453
+I felt enraged by the constant interruptions.,Anger,anger,0.999234676361084
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+She was terrified when She saw the shadow outside my window.,Fear,anger,0.9888551831245422
+She was furious when She saw the broken vase.,Anger,anger,0.9985795021057129
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+They felt paralyzed with fear during the horror movie.,Fear,anger,0.9947400689125061
+We couldn't believe my eyes when We saw the stunning view.,Surprise,joy,0.9941851496696472
+I was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9930596351623535
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+We was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9927974343299866
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+He couldn't contain my anger during the heated argument.,Anger,anger,0.9992566704750061
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+He was terrified when He saw the shadow outside my window.,Fear,anger,0.9870775938034058
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+I was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9930596351623535
+They was terrified when They saw the shadow outside my window.,Fear,fear,0.9874677658081055
+They couldn't stop smiling after receiving the good news.,Joy,joy,0.9951468110084534
+She felt paralyzed with fear during the horror movie.,Fear,anger,0.9936624765396118
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+She couldn't believe my eyes when She saw the stunning view.,Surprise,joy,0.995003879070282
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+I felt paralyzed with fear during the horror movie.,Fear,anger,0.9907436966896057
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+She was terrified when She saw the shadow outside my window.,Fear,anger,0.9888551831245422
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+She couldn't contain my anger during the heated argument.,Anger,anger,0.9994718432426453
+I couldn't stop crying after reading the sad letter.,Sadness,fear,0.9869140982627869
+She was terrified when She saw the shadow outside my window.,Fear,anger,0.9888551831245422
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+She couldn't believe my eyes when She saw the stunning view.,Surprise,joy,0.995003879070282
+She gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9881250858306885
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+They felt a deep sense of loss after the breakup.,Sadness,fear,0.974932849407196
+The unexpected loud noise startled me and made my heart race.,Fear,surprise,0.9926958084106445
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+We couldn't believe my eyes when We saw the stunning view.,Surprise,joy,0.9941851496696472
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+They felt a deep sense of loss after the breakup.,Sadness,fear,0.974932849407196
+They felt enraged by the constant interruptions.,Anger,anger,0.99932861328125
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+She couldn't believe my eyes when She saw the stunning view.,Surprise,joy,0.995003879070282
+They couldn't stop crying after reading the sad letter.,Sadness,anger,0.9954896569252014
+We was heartbroken when We heard the tragic news.,Sadness,joy,0.9854073524475098
+She was heartbroken when She heard the tragic news.,Sadness,anger,0.9914488196372986
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+I was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9930596351623535
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+They was overjoyed when They got the acceptance letter.,Joy,joy,0.996351957321167
+I couldn't believe my eyes when I saw the stunning view.,Surprise,joy,0.9927830696105957
+She couldn't contain my anger during the heated argument.,Anger,anger,0.9994718432426453
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+He couldn't believe my eyes when He saw the stunning view.,Surprise,joy,0.9950215816497803
+They was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9934118390083313
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+We was heartbroken when We heard the tragic news.,Sadness,joy,0.9854073524475098
+We felt a deep sense of loss after the breakup.,Sadness,fear,0.9763399958610535
+They couldn't stop crying after reading the sad letter.,Sadness,anger,0.9954896569252014
+He couldn't stop crying after reading the sad letter.,Sadness,sadness,0.9957534074783325
+I was terrified when I saw the shadow outside my window.,Fear,fear,0.9844675660133362
+We couldn't contain my anger during the heated argument.,Anger,anger,0.9991746544837952
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+She couldn't stop crying after reading the sad letter.,Sadness,sadness,0.9955801367759705
+He couldn't contain my anger during the heated argument.,Anger,anger,0.9992566704750061
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+We was furious when We saw the broken vase.,Anger,anger,0.9975302815437317
+I couldn't contain my anger during the heated argument.,Anger,anger,0.999137282371521
+They was overjoyed when They got the acceptance letter.,Joy,joy,0.996351957321167
+We was furious when We saw the broken vase.,Anger,anger,0.9975302815437317
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The eerie sound in the dark made me tremble with fear.,Fear,sadness,0.9936380982398987
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+She was furious when She saw the broken vase.,Anger,anger,0.9985795021057129
+I was furious when I saw the broken vase.,Anger,anger,0.9971948862075806
+The movie's ending left me in tears.,Sadness,fear,0.9839714169502258
+He gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9910196661949158
+He couldn't believe my eyes when He saw the stunning view.,Surprise,joy,0.9950215816497803
+They gasped in astonishment at the plot twist in the story.,Surprise,anger,0.9900699257850647
+They was heartbroken when They heard the tragic news.,Sadness,anger,0.9877455830574036
+He felt enraged by the constant interruptions.,Anger,anger,0.999229907989502
+He couldn't believe my eyes when He saw the stunning view.,Surprise,joy,0.9950215816497803
+They gasped in astonishment at the plot twist in the story.,Surprise,anger,0.9900699257850647
+The rude behavior of the cashier made me angry.,Anger,anger,0.9991040825843811
+She felt a deep sense of loss after the breakup.,Sadness,fear,0.9794768691062927
+She felt paralyzed with fear during the horror movie.,Fear,anger,0.9936624765396118
+We was shocked to see the unexpected guest at my party.,Surprise,surprise,0.9927974343299866
+Winning the competition was a moment of pure delight.,Joy,joy,0.995607316493988
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+She was overjoyed when She got the acceptance letter.,Joy,joy,0.9962871074676514
+The surprise gift left me speechless with joy.,Surprise,surprise,0.997183620929718
+She couldn't stop crying after reading the sad letter.,Sadness,sadness,0.9955801367759705
+We felt paralyzed with fear during the horror movie.,Fear,fear,0.9872387051582336
+We felt a deep sense of loss after the breakup.,Sadness,fear,0.9763399958610535
+He was heartbroken when He heard the tragic news.,Sadness,joy,0.9884603023529053
+We felt enraged by the constant interruptions.,Anger,anger,0.9993140697479248
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+I was terrified when I saw the shadow outside my window.,Fear,fear,0.9844675660133362
+The thought of failing the exam kept me awake with dread.,Fear,anger,0.9932767748832703
+I felt enraged by the constant interruptions.,Anger,anger,0.999234676361084
+We was terrified when We saw the shadow outside my window.,Fear,fear,0.9853543043136597
+She was heartbroken when She heard the tragic news.,Sadness,anger,0.9914488196372986
+The sudden announcement of the promotion took me by surprise.,Surprise,surprise,0.8692578077316284
+He was overjoyed when He got the acceptance letter.,Joy,joy,0.9963523149490356
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+I couldn't stop crying after reading the sad letter.,Sadness,fear,0.9869140982627869
+I couldn't believe my eyes when I saw the stunning view.,Surprise,joy,0.9927830696105957
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+The unfair treatment left me fuming with rage.,Anger,anger,0.9992026686668396
+I couldn't believe my eyes when I saw the stunning view.,Surprise,joy,0.9927830696105957
+I felt a deep sense of loss after the breakup.,Sadness,fear,0.9796355962753296
+The loneliness consumed me during the cold night.,Sadness,fear,0.9846842885017395
+We gasped in astonishment at the plot twist in the story.,Surprise,surprise,0.9905291199684143
+The surprise visit from my best friend made my day.,Joy,joy,0.9953807592391968
+She was overjoyed when She got the acceptance letter.,Joy,joy,0.9962871074676514
+The laughter of children filled me with happiness.,Joy,joy,0.995884120464325
